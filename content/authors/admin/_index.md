@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sungmin Eum
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: AI Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Booz Allen Hamilton / U.S. Army Research Lab
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,20 +22,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
+- Visual Grounding
 - Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in ECE
+    institution: University of Maryland, College Park
+    year: 2017
+  - course: MS in EE
+    institution: Yonsei University
+    year: 2011
+  - course: BS in EE
+    institution: Yonsei University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,9 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tT5GULUAAAAJ&hl=en
